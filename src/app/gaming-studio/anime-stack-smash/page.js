@@ -103,7 +103,7 @@ export default function General() {
             {/* 6. Privacy Policy Link */}
             <div className="text-center">
               <Link 
-                href="/gaming-studio/general/privacy-policy" 
+                href="/gaming-studio/anime-stack-smash/privacy-policy" 
                 className="text-purple-300 hover:text-purple-200 text-sm underline transition-colors duration-300"
               >
                 Privacy Policy

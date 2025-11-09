@@ -16,7 +16,7 @@ export default function GamingStudio() {
     { id: 7, title: "Cricket Rush", slug: "cricket-rush", image: "/games/cricket-rush.png" },
     // { id: 8, title: "Maid Caffe Run", slug: "maid-caffe-run", image: "/games/maid-caffe-run.jpg" },
     { id: 8, title: "Insta Famous", slug: "insta-famous", image: "/games/insta-famous.png" },
-    { id: 9, title: "Anime Stack Smash", slug: "general", image: "/games/anime-stack-smash.jpg" },
+    { id: 9, title: "Anime Stack Smash", slug: "anime-stack-smash", image: "/games/anime-stack-smash.jpg" },
     { id: 10, title: "Football Stack Smash", slug: "football-stack-smash", image: "/games/football-stack-smash.jpg" },
     { id: 11, title: "Quiz Quest", slug: "quiz-quest", image: "/games/quiz-quest.jpg" },
     { id: 12, title: "Space Runner", slug: "space-runner", image: "/games/space-runner.jpg" },

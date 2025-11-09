@@ -103,7 +103,7 @@ export default function MochitheBlob() {
             {/* 6. Privacy Policy Link */}
             <div className="text-center">
               <Link 
-                href="/gaming-studio/mochi-the-blob/privacy-policy" 
+                href="/gaming-studio/general/privacy-policy" 
                 className="text-purple-300 hover:text-purple-200 text-sm underline transition-colors duration-300"
               >
                 Privacy Policy
