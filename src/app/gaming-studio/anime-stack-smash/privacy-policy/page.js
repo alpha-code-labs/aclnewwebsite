@@ -10,7 +10,7 @@ export default function GeneralPrivacy() {
         {/* Back Button */}
         <div className="mb-8">
           <Link 
-            href="/gaming-studio/general"
+            href="/gaming-studio/anime-stack-smash"
             className="inline-flex items-center space-x-2 text-purple-300 hover:text-purple-200 transition-colors duration-300 group"
           >
             <svg className="w-5 h-5 group-hover:-translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
