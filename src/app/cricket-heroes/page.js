@@ -44,7 +44,7 @@ export default function CricketHeroes() {
               </a>
 
               <a 
-                href="https://play.google.com/store/apps/details?id=com.YourAppId.GullyChamp"
+                href="https://play.google.com/store/apps/details?id=com.alphacodelabs.GullyChamp&hl=en"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-4 sm:px-6 py-3 rounded-xl font-bold text-sm sm:text-base transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/30"
