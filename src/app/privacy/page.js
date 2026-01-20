@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
       <p>We implement appropriate security measures to protect your data. We retain your information only as long as necessary to fulfill your request or as required by law.</p>
       
       <h2>4. Your Rights</h2>
-      <p>You have the right to access, correct, or request the deletion of your personal data. To exercise these rights, please contact us at <strong>[Your Agency Email Here]</strong>.</p>
+      <p>You have the right to access, correct, or request the deletion of your personal data. To exercise these rights, please contact us at <strong>sandeepnair0410@gmail.com</strong>.</p>
       
       <p style={{ marginTop: '30px', fontSize: '0.9em', color: '#666' }}>
         <em>This policy is designed to comply with LinkedIn Advertising policies and the Indian Digital Personal Data Protection (DPDP) Act.</em>
