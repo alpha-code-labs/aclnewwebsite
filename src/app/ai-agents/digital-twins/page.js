@@ -27,7 +27,7 @@ export default function DigitalTwins() {
             <span className="text-amber-300 text-sm font-medium">Stealth Mode</span>
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 bg-gradient-to-r from-cyan-200 via-blue-200 to-cyan-200 bg-clip-text text-transparent">
-            Tattva Twins
+            Industrial Digital Twin Project
           </h1>
           <p className="text-xl md:text-2xl text-purple-100 max-w-3xl mx-auto leading-relaxed">
             Industrial Digital Twin platform — bringing real-time AI intelligence to manufacturing floors.
@@ -47,7 +47,7 @@ export default function DigitalTwins() {
             </div>
             <h2 className="text-2xl font-bold text-white mb-3">This Project is in Stealth Mode</h2>
             <p className="text-purple-100 text-lg leading-relaxed max-w-2xl mx-auto mb-2">
-              Tattva Twins is an industrial Digital Twin platform currently in development. We&apos;re building AI-powered virtual replicas of manufacturing assets for real-time monitoring, anomaly detection, and predictive maintenance.
+              This is an industrial Digital Twin platform currently in development. We&apos;re building AI-powered virtual replicas of manufacturing assets for real-time monitoring, anomaly detection, and predictive maintenance.
             </p>
             <p className="text-purple-300 text-sm">
               Full details are confidential. Reach out to learn more under NDA.

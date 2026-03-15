@@ -37,7 +37,7 @@ export default function AIAgents() {
     },
     {
       id: 4,
-      title: "Tattva Twins",
+      title: "Industrial Digital Twin Project",
       slug: "/ai-agents/digital-twins",
       icon: <Factory className="w-10 h-10 text-cyan-400" />,
       description: "Industrial Digital Twin platform with AI-powered anomaly detection and predictive maintenance for manufacturing floors.",
