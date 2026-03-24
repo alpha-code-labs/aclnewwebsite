@@ -1,6 +1,6 @@
 export default function EmpressaPrivacyPolicy() {
   return (
-    <div style={{ padding: '40px', maxWidth: '800px', margin: '0 auto', fontFamily: 'sans-serif', lineHeight: '1.8', color: '#222' }}>
+    <div style={{ padding: '40px', maxWidth: '800px', margin: '40px auto', fontFamily: 'sans-serif', lineHeight: '1.8', color: '#222', background: '#fff', borderRadius: '12px', boxShadow: '0 4px 20px rgba(0,0,0,0.2)' }}>
       <h1>Privacy Policy — Empressa Fashion Design Service</h1>
       <p><strong>Effective Date:</strong> March 24, 2026</p>
       <p>
